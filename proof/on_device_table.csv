@@ -1,0 +1,14 @@
+no,file,true_label,direct_v1_score,phone_score,score_difference,direct_v1_result,phone_result,heatmap_agreement,phone_seconds,match
+1,source10_57d750bfbf0d5c16.jpg,Unhealthy,0.11475,0.11475,0.000000,Healthy,Healthy,0.9995,4.235,YES
+2,source12_7445fec4423b05b4.jpg,Unhealthy,0.88537,0.88537,0.000000,Unsure,Unsure,0.9964,3.602,YES
+3,source14_31e5db284c7b86a3.jpg,Unhealthy,0.60261,0.60261,0.000000,Unsure,Unsure,0.9976,3.44,YES
+4,source11_1cd33a55c914e8b1.jpg,Unhealthy,0.99903,0.99903,0.000000,Unhealthy,Unhealthy,0.9985,3.964,YES
+5,source1_01c666e452f93d62.jpg,Unhealthy,0.99976,0.99976,0.000000,Unhealthy,Unhealthy,0.9978,3.728,YES
+6,source27_42a14556775af043.jpg,Unhealthy,0.99949,0.99949,0.000000,Unhealthy,Unhealthy,0.999,3.895,YES
+7,source34_4b406b3bd9e845c4.jpg,Unhealthy,0.9972,0.9972,0.000000,Unhealthy,Unhealthy,0.9991,3.687,YES
+8,source41_16da748c1cc26acc.jpg,Unhealthy,0.99945,0.99945,0.000000,Unhealthy,Unhealthy,0.9985,4.478,YES
+9,healthy_01.jpg,Healthy,0.9907,0.9907,0.000000,Unhealthy,Unhealthy,0.9986,5.702,YES
+10,healthy_04.jpg,Healthy,0.99856,0.99856,0.000000,Unhealthy,Unhealthy,0.9978,5.903,YES
+11,healthy_08.jpg,Healthy,0.99764,0.99764,0.000000,Unhealthy,Unhealthy,0.9986,5.711,YES
+12,healthy_12.jpg,Healthy,0.98921,0.98921,0.000000,Unhealthy,Unhealthy,0.9972,5.61,YES
+13,source10_603637972e3b36d4.jpg,Unhealthy,0.34617,0.34617,0.000000,Healthy,Healthy,0.9994,4.225,YES

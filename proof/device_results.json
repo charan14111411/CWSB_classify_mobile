@@ -1,0 +1,106 @@
+[
+ {
+  "n": 1,
+  "file": "source10_57d750bfbf0d5c16.jpg",
+  "score": 0.11475424468517303,
+  "label": "Healthy",
+  "seconds": 4.235,
+  "source": "device"
+ },
+ {
+  "n": 2,
+  "file": "source12_7445fec4423b05b4.jpg",
+  "score": 0.8853666186332703,
+  "label": "Unsure",
+  "seconds": 3.602,
+  "source": "device"
+ },
+ {
+  "n": 3,
+  "file": "source14_31e5db284c7b86a3.jpg",
+  "score": 0.6026145815849304,
+  "label": "Unsure",
+  "seconds": 3.44,
+  "source": "device"
+ },
+ {
+  "n": 4,
+  "file": "source11_1cd33a55c914e8b1.jpg",
+  "score": 0.9990329742431641,
+  "label": "Unhealthy",
+  "seconds": 3.964,
+  "source": "device"
+ },
+ {
+  "n": 5,
+  "file": "source1_01c666e452f93d62.jpg",
+  "score": 0.999762237071991,
+  "label": "Unhealthy",
+  "seconds": 3.728,
+  "source": "device"
+ },
+ {
+  "n": 6,
+  "file": "source27_42a14556775af043.jpg",
+  "score": 0.9994876384735107,
+  "label": "Unhealthy",
+  "seconds": 3.895,
+  "source": "device"
+ },
+ {
+  "n": 7,
+  "file": "source34_4b406b3bd9e845c4.jpg",
+  "score": 0.9971978664398193,
+  "label": "Unhealthy",
+  "seconds": 3.687,
+  "source": "device"
+ },
+ {
+  "n": 8,
+  "file": "source41_16da748c1cc26acc.jpg",
+  "score": 0.9994462132453918,
+  "label": "Unhealthy",
+  "seconds": 4.478,
+  "source": "device"
+ },
+ {
+  "n": 9,
+  "file": "healthy_01.jpg",
+  "score": 0.9907048344612122,
+  "label": "Unhealthy",
+  "seconds": 5.702,
+  "source": "device"
+ },
+ {
+  "n": 10,
+  "file": "healthy_04.jpg",
+  "score": 0.9985561966896057,
+  "label": "Unhealthy",
+  "seconds": 5.903,
+  "source": "device"
+ },
+ {
+  "n": 11,
+  "file": "healthy_08.jpg",
+  "score": 0.9976387023925781,
+  "label": "Unhealthy",
+  "seconds": 5.711,
+  "source": "device"
+ },
+ {
+  "n": 12,
+  "file": "healthy_12.jpg",
+  "score": 0.9892123937606812,
+  "label": "Unhealthy",
+  "seconds": 5.61,
+  "source": "device"
+ },
+ {
+  "n": 13,
+  "file": "source10_603637972e3b36d4.jpg",
+  "score": 0.34616613388061523,
+  "label": "Healthy",
+  "seconds": 4.225,
+  "source": "device"
+ }
+]

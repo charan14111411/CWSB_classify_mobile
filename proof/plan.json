@@ -1,0 +1,93 @@
+[
+ {
+  "n": 1,
+  "file": "source10_57d750bfbf0d5c16.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source10_57d750bfbf0d5c16.jpg"
+ },
+ {
+  "n": 2,
+  "file": "source12_7445fec4423b05b4.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source12_7445fec4423b05b4.jpg"
+ },
+ {
+  "n": 3,
+  "file": "source14_31e5db284c7b86a3.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source14_31e5db284c7b86a3.jpg"
+ },
+ {
+  "n": 4,
+  "file": "source11_1cd33a55c914e8b1.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source11_1cd33a55c914e8b1.jpg"
+ },
+ {
+  "n": 5,
+  "file": "source1_01c666e452f93d62.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source1_01c666e452f93d62.jpg"
+ },
+ {
+  "n": 6,
+  "file": "source27_42a14556775af043.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source27_42a14556775af043.jpg"
+ },
+ {
+  "n": 7,
+  "file": "source34_4b406b3bd9e845c4.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source34_4b406b3bd9e845c4.jpg"
+ },
+ {
+  "n": 8,
+  "file": "source41_16da748c1cc26acc.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source41_16da748c1cc26acc.jpg"
+ },
+ {
+  "n": 9,
+  "file": "healthy_01.jpg",
+  "folder": "healthy_closeups",
+  "true_label": "Healthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\healthy_closeups\\healthy_01.jpg"
+ },
+ {
+  "n": 10,
+  "file": "healthy_04.jpg",
+  "folder": "healthy_closeups",
+  "true_label": "Healthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\healthy_closeups\\healthy_04.jpg"
+ },
+ {
+  "n": 11,
+  "file": "healthy_08.jpg",
+  "folder": "healthy_closeups",
+  "true_label": "Healthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\healthy_closeups\\healthy_08.jpg"
+ },
+ {
+  "n": 12,
+  "file": "healthy_12.jpg",
+  "folder": "healthy_closeups",
+  "true_label": "Healthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\healthy_closeups\\healthy_12.jpg"
+ },
+ {
+  "n": 13,
+  "file": "source10_603637972e3b36d4.jpg",
+  "folder": "unhealthy_infested_closeups",
+  "true_label": "Unhealthy",
+  "path": "D:\\Desktop\\cwsb_mobile\\test_dataset\\unhealthy_infested_closeups\\source10_603637972e3b36d4.jpg"
+ }
+]

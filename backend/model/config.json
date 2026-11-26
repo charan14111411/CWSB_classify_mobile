@@ -1,0 +1,32 @@
+{
+  "model": "contender_B.pt",
+  "backbone": "convnext_tiny.fb_in22k_ft_in1k_384",
+  "img": 384,
+  "remove_bg": false,
+  "remove_bg_fill": "blur",
+  "remove_bg_note": "Serving MUST match training. v1 was trained on full frames, so removal is off. A model trained with removal on ships a config with remove_bg=true, and src/predict_folder.py then applies src/remove_bg.py automatically. Never flip this by hand on a trained model.",
+  "T_low": 0.5,
+  "T_high": 0.9,
+  "plant_score": "max over the plant's photos",
+  "answers": {
+    "score >= T_high": "wsb_likely",
+    "T_low <= score < T_high": "inconclusive",
+    "score < T_low": "no_visible_signs"
+  },
+  "calibrated_on": "validation split only; test split used as a check",
+  "rationale": "validation healthy photos score 0.26-0.39, so T_low=0.50 sits above the healthy band; T_high=0.90 marks strong confidence. The earlier infected-quantile recipe collapsed both thresholds to ~0.91 and reported hedged scores as no_visible_signs.",
+  "test_photo_level": {
+    "caught": 44,
+    "missed": 3,
+    "false_alarms": 1,
+    "cleared": 7,
+    "inconclusive": 4
+  },
+  "test_plant_level": {
+    "caught": 5,
+    "missed": 0,
+    "false_alarms": 1,
+    "cleared": 0,
+    "inconclusive": 2
+  }
+}
